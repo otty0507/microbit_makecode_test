@@ -8,7 +8,8 @@
         "datalogger": "*",
         "neopixel": "github:microsoft/pxt-neopixel#v0.7.3",
         "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5",
-        "servo": "*"
+        "servo": "*",
+        "test": "github:otty0507/microbit_makecode_test#c210fd4835b1105b03e432bf8a522ba1f65877b4"
     },
     "files": [
         "main.blocks",
@@ -27,5 +28,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }

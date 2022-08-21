@@ -9,6 +9,8 @@ enum MyEnum {
     One,
     //% block="two"
     Two
+    //% block="three"
+    three
 }
 
 /**
